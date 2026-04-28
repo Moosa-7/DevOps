@@ -19,5 +19,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo any text using echo bash command
-        run: echo "Hi class, hope you all had a good mid semester break"
+        run: echo "this is moosa and hamza ci cd lab task"
 ...
